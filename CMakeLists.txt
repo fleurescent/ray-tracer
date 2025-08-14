@@ -20,6 +20,7 @@ set ( SOURCE_ONE_WEEKEND
   src/InOneWeekend/color.h
   src/InOneWeekend/hittable.h
   src/InOneWeekend/hittable_list.h
+  src/InOneWeekend/interval.h
   src/InOneWeekend/ray.h
   src/InOneWeekend/rtweekend.h
   src/InOneWeekend/sphere.h
