@@ -31,6 +31,7 @@ set ( SOURCE_ONE_WEEKEND
 
 set ( SOURCE_NEXT_WEEK
   src/TheNextWeek/main.cc
+  src/TheNextWeek/aabb.h
   src/TheNextWeek/camera.h
   src/TheNextWeek/color.h
   src/TheNextWeek/hittable.h
