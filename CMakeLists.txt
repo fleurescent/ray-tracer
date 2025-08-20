@@ -42,6 +42,7 @@ set ( SOURCE_NEXT_WEEK
   src/TheNextWeek/ray.h
   src/TheNextWeek/rtweekend.h
   src/TheNextWeek/sphere.h
+  src/TheNextWeek/texture.h
   src/TheNextWeek/vec3.h
 )
 
