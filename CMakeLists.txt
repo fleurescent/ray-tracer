@@ -43,6 +43,7 @@ set ( SOURCE_NEXT_WEEK
   src/TheNextWeek/hittable_list.h
   src/TheNextWeek/interval.h
   src/TheNextWeek/material.h
+  src/TheNextWeek/perlin.h
   src/TheNextWeek/ray.h
   src/TheNextWeek/rtw_stb_image.h
   src/TheNextWeek/rtweekend.h
