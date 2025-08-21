@@ -15,6 +15,10 @@ set ( CMAKE_CXX_EXTENSIONS        OFF )
 
 # Source
 
+set ( EXTERNAL
+  src/external/stb_image.h
+)
+
 set ( SOURCE_ONE_WEEKEND
   src/InOneWeekend/main.cc
   src/InOneWeekend/camera.h
